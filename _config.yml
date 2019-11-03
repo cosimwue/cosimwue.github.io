@@ -3,15 +3,14 @@ title: Conflict Simulation Group
 description: > # this means to ignore newlines until "baseurl:"
   The Conflict Simulation Group at the University of Würzburg
 
-#url: tomjoht.github.io
-#   baseurl: /myreponame
-
-url: cosimwue.github.io
-baseurl: /cosimwue.github.io
-
 # For testing locally:
-#baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cosimwue.github.io" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# These baseurl settings have to be activated before deployment to github.io
+#baseurl: /cosimwue.github.io
+#url: cosimwue.github.io
+
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
