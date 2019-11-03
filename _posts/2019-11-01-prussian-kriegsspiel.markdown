@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Victorian gentlemen playing war for sport
-date: 2019-01-11 13:32:20 +0300
+title: The Prussian "Kriegsspiel"
+date: 2019-11-01 13:32:20 +0300
 description: 
 img: victorian_kriegsspielers.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
