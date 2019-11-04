@@ -5,6 +5,6 @@ date: 2019-11-02 13:32:20 +0300
 description: 
 img: victorian_kriegsspielers.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [cool pics, Prussian Kriegsspiel]
+tags: [didactics, classroom use]
 ---
-Cool rule sets we developed
+Conflict simulations are used in the University of Würzburg's Digital Humanities and History study programmes since 2011.
