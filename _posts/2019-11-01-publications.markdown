@@ -9,7 +9,7 @@ tags: [publications]
 ---
 Publications on conflict simulation by the members of the group:
 
-- Wintjes, J and Pielström, S (in preparation). S La Pluie de Balles – Invasion Scare as Conflict Simulation.
+- Wintjes, J and Pielström, S (in preparation). La Pluie de Balles – Invasion Scare as Conflict Simulation.
 
 - Wintjes J (2019). Das Kriegsspiel des Wilhelm von Tschischwitz. *GIDS Analysis 3*, Hamburg: Budrich.
 
