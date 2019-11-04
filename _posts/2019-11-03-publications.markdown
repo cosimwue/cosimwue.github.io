@@ -7,4 +7,10 @@ img: victorian_kriegsspielers.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [cool pics, Prussian Kriegsspiel]
 ---
-Cool stuff we wrote on the topic
+- Wintjes, J and Pielström, S (in preparation). S La Pluie de Balles – Invasion Scare as Conflict Simulation .
+- Wintjes J (2019). Das Kriegsspiel des Wilhelm von Tschischwitz. *GIDS Analysis 3*, Hamburg: Budrich.
+- Wintjes, J and Pielström, S (2019). "Preußisches Kriegsspiel" - Ein Projekt an der Julius-Maximilians-Universität Würzburg. *Militärgeschichtliche Zeitschrift* 78, 86-98.
+- Wintjes, J and Pielström, S (2018). Pluie de Balles - Complex Wargames in the Classroom. [*Analog Game Studies* V, Issue III](http://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/).
+- Wintjes, J (2017). When a Spiel is not a Game: The Prussian Kriegsspiel from 1824 to 1871. *Vulcan* 5, 5-28.
+- Wintjes, J (2016). “Not an Ordinary Game, But a School of War”: Notes on the Early History of the Prusso-German Kriegsspiel. *Vulcan* 4, 52-75.
+- Wintjes, J (2015). Europe’s Earliest Kriegsspiel? Book Seven of Reinhard Graf zu Solms’ Kriegsregierung and the ‘Prehistory’ of Professional War Gaming. [*British Journal for Military History* 2, 15-33](http://bjmh.org.uk/index.php/bjmh/article/view/68).
