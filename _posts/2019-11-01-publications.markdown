@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Publications
-date: 2019-11-03 13:32:20 +0300
+date: 2019-11-01 13:32:20 +0300
 description: 
 img: shelf2.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
