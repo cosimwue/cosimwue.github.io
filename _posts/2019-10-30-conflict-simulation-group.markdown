@@ -3,9 +3,9 @@ layout: post
 title: The conflict simulation group
 date: 2019-10-30 13:32:20 +0300
 description: 
-img: victorian_kriegsspielers.png # Add image post (optional)
+img: Festung_Marienberg.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [cool pics, Prussian Kriegsspiel]
+tags: [About]
 ---
 **Jorit Wintjes** studied ancient and modern history, Latin and ancient Greek at the University of Würzburg. He wrote a dissertation on the Antiochian orator Libanius and a habilitations on the fleet of Roman Britan. His research interests include ancient and victorian era military history, the role of women in warfare and the use of conflict simulations in officer training. He currently works as a lecturer at the Würzburg department of ancient history teaching in the history and digital humanities programmes.
 
