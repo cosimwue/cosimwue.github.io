@@ -20,7 +20,7 @@ A team of **umpires** (*Vertraute*) based in another room is tasked with process
 
 [For a detailed presentation on the *procedere* of the *Kriegsspiel*, click here.]
 
-Thanks to these features, the *Kriegsspiel* provided a relatively realistic exercice in staff work during ongoing operations, information processing, efficient communication and decision making with uncomplete or unrelyable information about the situation.
+Thanks to these features, the *Kriegsspiel* provided a relatively realistic exercice in staff work during ongoing operations, information processing, efficient communication and decision making with uncomplete or unrelyable information about the overall situation.
 
 ## Recreating the battle of Königgrätz
 The largest sessions organized by the Conflict Simulation Group simulated the southern wing's actions at the [Battle of Königgrätz in 1866](https://en.wikipedia.org/wiki/Battle_of_K%C3%B6niggr%C3%A4tz) where two complete army corps engaged each other. These games, based on a set of ruled published by Wilhelm von Tschischwitz in 1867, involved about 40 participants. The setting allows for the depiction of multiple command levels: each team is split into one army corps HQ and five division level commands, each invested with a separate map and set of tokens. Army corps commanders have to assess the situation, decide, and formulate orders accoring to the written messages they receive from division level commanders. That way, many aspects of staff work in army corps level operations can be simulated.
