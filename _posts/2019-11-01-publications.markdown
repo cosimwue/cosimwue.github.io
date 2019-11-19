@@ -7,7 +7,7 @@ img: shelf2.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [publications]
 ---
-Publications on conflict simulation by the members of the group:
+Publications on conflict simulation by the conflict simulation group:
 
 - Wintjes, J and Pielström, S (in preparation). La Pluie de Balles – Invasion Scare as Conflict Simulation.
 
