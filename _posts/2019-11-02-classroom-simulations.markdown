@@ -7,4 +7,4 @@ img: PdB_lage.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [didactics, classroom use]
 ---
-Conflict simulations are used in the University of Würzburg's Digital Humanities and History study programmes since 2011.
+Conflict simulations are used in the University of Würzburg's Digital Humanities and History study programmes since 2011. You will find more information on games like the famous [*Pluie de Balles*](http://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/) at this site soon...
