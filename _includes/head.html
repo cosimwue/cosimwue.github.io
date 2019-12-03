@@ -1,4 +1,5 @@
 <head>
+	<meta name="google-site-verification" content="Yi2SaiF47y6IfqAiuLq098lHbGJVQN7sHlDdCwu49Sc" />
 	<meta charset="utf-8">
 	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 
@@ -87,7 +88,7 @@
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
 	{% if site.google_analytics and jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+  {% include analytics.html %}
+  {% endif %}
 
 </head>
