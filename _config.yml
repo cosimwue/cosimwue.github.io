@@ -21,7 +21,7 @@ social-email: pielstroem(at)biozentrum.uni-wuerzburg.de # add your Email address
 discus-identifier: # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: Google Analytics
 
 # Build Settings
 markdown: kramdown
