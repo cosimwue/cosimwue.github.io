@@ -22,7 +22,7 @@ The *Kriegsspiel* is played on a topographic map. Units are represented with tok
 
 A team of **umpires** (*Vertraute*) based in another room is tasked with processing orders and writing messages players would receive from subordinate commanders. It is the umpires who solve conflicts according to the mechanisms outlined in the rules. Their map is the only one that depicts the *reality* of the simulation, whereas the player maps only show the teams' assessments of the situation according to the information available to them. The quality and amount of information the players get is controlled by the umpiring team, depending on the situation, by simulating the decisions and communications of the command levels subordinate to that of the players. For a detailed presentation on the *procedere* of the *Kriegsspiel*, see below.
 <div class="iframe-container">
-  <iframe width="1024" height="576" class="sozi" src="{{site.baseurl}}/assets/pres/procedere_pres.sozi.html" style="border:none;"></iframe>
+  <iframe width="1024" height="576" src="{{site.baseurl}}/assets/pres/procedere_pres.sozi.html" style="border:none;"></iframe>
 </div>
 
 Thanks to these features, the *Kriegsspiel* provided a relatively realistic exercise in staff work during ongoing operations, information processing, efficient communication and decision making with incomplete or unreliable information about the overall situation.
