@@ -32,8 +32,8 @@ The largest games organised by the Conflict Simulation Group recreate confrontat
 
 ### The Königgrätz map
 The map used for the *Königgrätz* games is a contemporary topographic map of the battle field specifically made to recreate the events in the *Kriegsspiel*. The original version that has been preserved by the British Library possibly is the only map of its kind that survived to our day. A short presentation introducing the contemporary map and how it depicts topographic features can be seen here.
-<iframe class="sozi" src="{{site.baseurl}}/assets/pres/maps_pres.sozi.html" style="height:50%;width:60%;border:none;"></iframe>
+<iframe width="1024" height="576" src="{{site.baseurl}}/assets/pres/maps_pres.sozi.html" style="border:none;"></iframe>
 
 ### Tokens, units and formations in 1867
 Military symbols in mid-19th century Prussia were quite different from modern NATO standard. Furthermore the rules take great care to distinguish and depict different tactical formations, often by representing single tactical units by multiple tokens and defining how these have to be arranged to indicate a specific formation. Confusingly, a single tactical unit, like an infantry battalion or a gun battery are therefore represented by more than one token, even though they can not be split into independent sub units. (Moving companies of infantry independently was in fact already an experimental feature of infantry tactics by 1866, but battalion lines were still standard practice.) A quick overview of the unit types, symbols, and the ways tokens are used to represent different formations on the map can be seen at the picture below. A detailed presentation on how to use the contemporary unit tokens can be found here.
-<iframe class="sozi" src="{{site.baseurl}}/assets/pres/tokens_pres.sozi.html" style="height:576px;width:1024px;border:none;"></iframe>
+<iframe width="1024" height="576" src="{{site.baseurl}}/assets/pres/tokens_pres.sozi.html" style="border:none;"></iframe>
