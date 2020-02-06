@@ -22,7 +22,7 @@ The *Kriegsspiel* is played on a topographic map. Units are represented with tok
 
 A team of **umpires** (*Vertraute*) based in another room is tasked with processing orders and writing messages players would receive from subordinate commanders. It is the umpires who solve conflicts according to the mechanisms outlined in the rules. Their map is the only one that depicts the *reality* of the simulation, whereas the player maps only show the teams' assessments of the situation according to the information available to them. The quality and amount of information the players get is controlled by the umpiring team, depending on the situation, by simulating the decisions and communications of the command levels subordinate to that of the players. For a detailed presentation on the *procedere* of the *Kriegsspiel*, see below.
 <div class="iframe-container">
-  <iframe width="1024" height="576" src="{{site.baseurl}}/assets/pres/procedere_pres.sozi.html" style="border:none;"></iframe>
+  <iframe width="1024" height="576" src="{{site.baseurl}}/assets/pres/procedere_pres.sozi.html" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Thanks to these features, the *Kriegsspiel* provided a relatively realistic exercise in staff work during ongoing operations, information processing, efficient communication and decision making with incomplete or unreliable information about the overall situation.
@@ -33,11 +33,11 @@ The largest games organised by the Conflict Simulation Group recreate confrontat
 ### The Königgrätz map
 The map used for the *Königgrätz* games is a contemporary topographic map of the battle field specifically made to recreate the events in the *Kriegsspiel*. The original version that has been preserved by the British Library possibly is the only map of its kind that survived to our day. A short presentation introducing the contemporary map and how it depicts topographic features can be seen here.
 <div class="iframe-container">
-<iframe width="1024" height="576" src="{{site.baseurl}}/assets/pres/maps_pres.sozi.html" style="border:none;"></iframe>
+<iframe width="1024" height="576" src="{{site.baseurl}}/assets/pres/maps_pres.sozi.html" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Tokens, units and formations in 1867
 Military symbols in mid-19th century Prussia were quite different from modern NATO standard. Furthermore the rules take great care to distinguish and depict different tactical formations, often by representing single tactical units by multiple tokens and defining how these have to be arranged to indicate a specific formation. Confusingly, a single tactical unit, like an infantry battalion or a gun battery are therefore represented by more than one token, even though they can not be split into independent sub units. (Moving companies of infantry independently was in fact already an experimental feature of infantry tactics by 1866, but battalion lines were still standard practice.) A quick overview of the unit types, symbols, and the ways tokens are used to represent different formations on the map can be seen at the picture below. A detailed presentation on how to use the contemporary unit tokens can be found here.
 <div class="iframe-container">
-<iframe width="1024" height="576" src="{{site.baseurl}}/assets/pres/tokens_pres.sozi.html" style="border:none;"></iframe>
+<iframe width="1024" height="576" src="{{site.baseurl}}/assets/pres/tokens_pres.sozi.html" frameborder="0" allowfullscreen></iframe>
 </div>
