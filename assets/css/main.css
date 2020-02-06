@@ -1487,3 +1487,8 @@ a.newer-posts:hover {
     overflow: hidden;
 }
 
+.iframe {
+    position: absolute;
+    pwidth: 100%;
+   heigth: 100%;
+}
