@@ -1128,6 +1128,12 @@ footer .copyright {
           box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
 }
 
+.sozi {
+   width: 50%;
+   height: 50%;
+   border: none;
+}
+
 .post:hover {
   -webkit-transform: translate(0px, -2px);
       -ms-transform: translate(0px, -2px);
