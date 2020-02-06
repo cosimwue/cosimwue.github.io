@@ -21,7 +21,9 @@ The Conflict Simulation Group at the University of Würzburg has collected most 
 The *Kriegsspiel* is played on a topographic map. Units are represented with tokens, originally made from lead, that depict contemporary tactical symbols. It simulates land operations from brigade level upwards. The teams playing the *Kriegsspiel* are placed in separate rooms, each with its own map and set of tokens. The players do not need to know the rules of the game at all, they simply write orders orders to imagined subordinates and receive written messages in reply imitating the actions at a real command post in the field. They rely on the map and tokens to depict the tactical situation how they perceive it.
 
 A team of **umpires** (*Vertraute*) based in another room is tasked with processing orders and writing messages players would receive from subordinate commanders. It is the umpires who solve conflicts according to the mechanisms outlined in the rules. Their map is the only one that depicts the *reality* of the simulation, whereas the player maps only show the teams' assessments of the situation according to the information available to them. The quality and amount of information the players get is controlled by the umpiring team, depending on the situation, by simulating the decisions and communications of the command levels subordinate to that of the players. For a detailed presentation on the *procedere* of the *Kriegsspiel*, see below.
-<iframe class="sozi" src="{{site.baseurl}}/assets/pres/procedere_pres.sozi.html" style="border:none;"></iframe>
+<div class="iframe-container">
+  <iframe class="sozi" src="{{site.baseurl}}/assets/pres/procedere_pres.sozi.html" style="border:none;"></iframe>
+</div>
 
 Thanks to these features, the *Kriegsspiel* provided a relatively realistic exercise in staff work during ongoing operations, information processing, efficient communication and decision making with incomplete or unreliable information about the overall situation.
 
