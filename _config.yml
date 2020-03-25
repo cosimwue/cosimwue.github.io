@@ -3,7 +3,7 @@ title: Conflict Simulation Group
 description: > # this means to ignore newlines until "baseurl:"
   The Conflict Simulation Group at the University of Würzburg
 url: cosimwue.github.io
-baseurl: /cosimwue.github.io
+baseurl: 
 
 site-twitter: #if your site has a twitter account, enter it here
 
