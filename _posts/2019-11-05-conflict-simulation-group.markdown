@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The conflict simulation group
-date: 2019-11-03 14:33:20 +0300
+date: 2019-11-05 14:33:20 +0300
 description: 
 img: Festung_Marienberg.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
