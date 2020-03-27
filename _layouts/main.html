@@ -7,10 +7,21 @@ layout: default
     <div class="about">
       <div class="cover-author-image">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+      </div> <!-- End cover-author-imgage -->
+      <div class="author-name">
+        {{site.author}}
       </div>
-      <div class="author-name">{{site.author}}</div>
-      <p>{{site.about-author}}</p>
-    </div>
+        <p>{{site.about-author}}</p>
+      <!--My new menu -->
+      <section class="contact">
+        <h3 class="contact-title">Sections</h3>
+          <ul>      
+            <li><a href="https://cosimwue.github.io"><p><strong>Info</strong></p></a></li>
+            <li><a href="https://cosimwue.github.io/blog"><p>News</p></a></li>
+          </ul>
+      </section> 
+      <!--End of menu -->
+    </div> <!-- End about -->   
   </header> <!-- End Header -->
 
   <footer>
