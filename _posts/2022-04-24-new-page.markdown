@@ -10,4 +10,5 @@ tags: [about]
 
 We have moved to a new url! For old link's sake we'll leave the old content here, but new content can be found under:
 
-**[cosimg.github.io](cosimg.github.io)**
+**[cosimg.github.io](https://cosimg.github.io)**
+
